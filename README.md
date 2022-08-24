@@ -15,7 +15,7 @@ Java ist eine objektorientierte Programmiersprache und weitere Details findest d
 Anmerkung zur Verwendung von JDKs. Wenn man sich umhört, bekommt man schnell mit, dass es inzwischen neben dem offiziellen JDK und der offiziellen JVM noch andere anbieter gibt.  
 Hier zwei Stück genannt, welchen man beim Einsatz eines Open-Source Java-Projektes sich unbedingt mal anschauen sollte.
 
-* [OpenJDK](https://openjdk.org/) und [Wiki](https://de.wikipedia.org/wiki/OpenJDK) dazu
+* [OpenJDK-Webseite](https://openjdk.org/) und [Wiki-Eintrag](https://de.wikipedia.org/wiki/OpenJDK) 
 * [Amazon Corretto](https://aws.amazon.com/de/corretto/)  
 
 
