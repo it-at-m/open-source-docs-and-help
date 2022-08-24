@@ -54,3 +54,5 @@ Vue.js ist ein clientseitiges JavaScript-Webframework zum Erstellen von Single-P
 
 * [Webseite](https://vuejs.org/)
 * [Dokumentation](https://v2.vuejs.org/)
+* [Beginner Tutorial](https://vuejs.org/tutorial/#step-1)
+
