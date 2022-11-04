@@ -15,7 +15,7 @@ Falls Du bei einem [unserer Repositories](https://github.com/orgs/it-at-m/reposi
 Anmerkung zur Verwendung von JDKs. Wenn man sich umhört, bekommt man schnell mit, dass es inzwischen neben dem offiziellen JDK und der offiziellen JVM noch andere Anbieter gibt.
 Hier zwei Stück genannt, welchen man beim Einsatz eines Open-Source Java-Projektes sich unbedingt mal anschauen sollte.
 
-* [OpenJDK-Webseite](https://openjdk.org/) und [Wiki-Eintrag](https://de.wikipedia.org/wiki/OpenJDK)
+* [OpenJDK-Webseite](https://openjdk.org/) und [Wikipedia-Eintrag](https://de.wikipedia.org/wiki/OpenJDK)
 * [Amazon Corretto](https://aws.amazon.com/de/corretto/)
 
 
