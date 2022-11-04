@@ -56,7 +56,6 @@ Hier zwei Stück genannt, welchen man beim Einsatz eines Open-Source Java-Projek
 * [Webseite](https://www.w3.org/Style/CSS/)
 * [Dokumentation](https://developer.mozilla.org/en-US/docs/Web/CSS)
 
----
 
 ## Frameworks
 
@@ -85,7 +84,6 @@ Das [Framework Spring Boot](https://de.wikipedia.org/wiki/Spring_(Framework)) is
 * [Webseite](https://nextjs.org)
 * [Dokumentation](https://nextjs.org/docs/getting-started)
 
----
 
 ## Plattformen
 
@@ -95,7 +93,6 @@ Das [Framework Spring Boot](https://de.wikipedia.org/wiki/Spring_(Framework)) is
 * [Webseite](https://firebase.google.com/)
 * [Dokumentation](https://firebase.google.com/docs)
 
----
 
 ## Tools
 
