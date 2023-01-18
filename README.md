@@ -2,6 +2,12 @@
 
 Falls Du bei einem [unserer Repositories](https://github.com/orgs/it-at-m/repositories)  mitwirken möchtest, aber die genutzte Technologie nicht kennst, so kannst du hier eine kleine Orientierungshilfe bekommen. Hier findest Du einige Links zu Anleitungen und ersten Schritten von den Programmier- und Skript- und Auszeichnungssprachen und Frameworks, welche bei uns in den unterschiedlichen Projekten eingesetzt werden.
 
+## Neues Projekt anlegen
+
+Um ein neues Repository initial aufzusetzen, wird ein [Template (englisch)](https://github.com/it-at-m/oss-repository-en-template) zur Verfügung gestellt. Einfach in diesem Repository auf "use this template" klicken und dann die gewohnten Metadaten befüllen.
+
+![image](https://user-images.githubusercontent.com/712911/158533837-764cef58-d035-46be-b3f7-c1c77610f3cb.png)
+
 
 ## Eingesetzte Technologien
 
