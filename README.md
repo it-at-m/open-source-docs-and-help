@@ -88,7 +88,7 @@ Das [Framework Spring Boot](https://de.wikipedia.org/wiki/Spring_(Framework)) is
 ## Plattformen
 
 ### Firebase
-[Firebase](https://de.wikipedia.org/wiki/Firebase) ist eine Entwicklungs-Plattform für mobile und Webanwendungen. Sie stellt über ein Software Development Kit (SDK) Tools und Infrastruktur zur Verfügung, die es einem Entwickler ermöglichen sollen, einfacher und effizienter Funktionen mittels Programmierschnittstellen auf verschiedenen Plattformen bereitzustellen.
+[Firebase](https://de.wikipedia.org/wiki/Firebase) ist eine Entwicklungs-Plattform für mobile und Webanwendungen. Sie stellt über ein Software Development Kit (SDK) Tools und Infrastruktur zur Verfügung, die es eine\*r Entwickler\*in ermöglichen sollen, einfacher und effizienter Funktionen mittels Programmierschnittstellen auf verschiedenen Plattformen bereitzustellen.
 
 * [Webseite](https://firebase.google.com/)
 * [Dokumentation](https://firebase.google.com/docs)
