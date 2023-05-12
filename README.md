@@ -17,6 +17,8 @@ Hier zwei Stück genannt, welchen man beim Einsatz eines Open-Source Java-Projek
 * [OpenJDK-Webseite](https://openjdk.org/) und [Wikipedia-Eintrag](https://de.wikipedia.org/wiki/OpenJDK)
 * [Amazon Corretto](https://aws.amazon.com/de/corretto/)
 
+Für Java wollen wir eine einheitliche Codeformatierung. Diese wird sichergestellt durch die Nutzung von [Spotless](https://github.com/diffplug/spotless/tree/main/plugin-maven) Codeformatter in Kombination mit [it@M Codeformat](https://github.com/it-at-m/itm-java-codeformat). Als Linter wird [Checkstyle](https://checkstyle.org/) genutzt.
+
 
 ### TypeScript
 [TypeScript](https://de.wikipedia.org/wiki/TypeScript) ist eine Skriptsprache.
