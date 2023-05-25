@@ -73,6 +73,11 @@ Das [Framework Spring Boot](https://de.wikipedia.org/wiki/Spring_(Framework)) is
 * [Dokumentation](https://v2.vuejs.org/)
 * [Beginner Tutorial](https://vuejs.org/tutorial/#step-1)
 
+### Vuetify
+Vuetify ist eine Sammlung vorgefertigter [Vuejs](#vuejs) Komponenten wie dynamischen Themen, globalen Standardeinstellungen, Anwendungslayouts.
+
+* [Webseite](https://vuetifyjs.com)
+
 
 ### Flutter
 [Flutter](https://de.wikipedia.org/wiki/Flutter_(Software)) ist ein Open-Source-UI-Entwicklungs-Kit von Google. Mit Flutter können Cross-Platform Apps in der Programmiersprache Dart entwickelt werden. 
